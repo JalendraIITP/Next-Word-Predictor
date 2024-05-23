@@ -19,3 +19,4 @@
    ```sh
    cd dev
    npm start
+![Project Screenshot](assets/screenshot.png)
