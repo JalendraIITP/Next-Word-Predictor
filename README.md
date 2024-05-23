@@ -19,4 +19,4 @@
    ```sh
    cd dev
    npm start
-![Project Screenshot]([assets/screenshot.png](https://github.com/JalendraIITP/Next-Word-Predictor/blob/master/Next_Word_Predictor.jpg))
+![Project Screenshot](https://github.com/JalendraIITP/Next-Word-Predictor/blob/master/Next_Word_Predictor.jpg)
