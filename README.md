@@ -7,7 +7,7 @@
    First, clone the repository to your local machine using Git.
 
    ```sh
-   git clone [https://github.com/username/repo.git](https://github.com/JalendraIITP/Next-Word-Predictor)
+   git clone https://github.com/JalendraIITP/Next-Word-Predictor
    cd repo
 2. **Start Backend Server:**
    ```sh
